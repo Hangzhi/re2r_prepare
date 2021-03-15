@@ -92,6 +92,6 @@ print(log.dl)
 
 ## result of benchmark
 
-![figure-complexity-linear](C:\Users\Dai Yiwei\Documents\figure-complexity-linear.png)
+![figure-complexity-linear](figure-complexity-linear.png)
 
-![complexity-log](C:\Users\Dai Yiwei\Documents\complexity-log.png)
+![complexity-log](complexity-log.png)
